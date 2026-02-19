@@ -1,1 +1,1 @@
-# libraray-management-system-project-using-hbase
+# library-management-system-project-using-hbase
